@@ -8,7 +8,7 @@ function Task(props) {
     <Draggable draggableId={id} index={index} type="Task">
       {(provided) => (
         <div ref={provided.innerRef} {...provided.draggableProps} {...provided.dragHandleProps} className="task-container">
-          <h3>{title}</h3>
+          <h4>{title}</h4>
           <p>{description}</p>
         </div>
       )}
