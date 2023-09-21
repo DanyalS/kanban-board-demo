@@ -1,4 +1,5 @@
 Kanban Board Demo
+
 <img width="1053" alt="Screenshot 2023-09-21 at 1 46 45 PM" src="https://github.com/DanyalS/kanban-board-demo/assets/16670080/b2d09177-46bf-4a40-8f72-b048fb5d7222">
 
 # Getting Started with Create React App
